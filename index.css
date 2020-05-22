@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700|Lora|Playfair+Display:700i,900'); 
  
 html,body { margin: 0; width: 100%;
-background-color:#F4B433;
+background-color:#FFC700;
 }
 
 h1 { font-family: "Playfair Display", serif; font-size: 38px; text-align: left; margin-bottom: 8px; padding:10px;} 
 
 .hx{
 				padding:20px;
-				background-color:#F4B433/*#FDAD0B*/;
+				background-color:#FFC700/*#FDAD0B*/;
 				
   /*width: 100%;*/
 				
